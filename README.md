@@ -19,7 +19,7 @@ FocusChunk is an Android App made to help ADHD patients breaks long text into sh
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/siddharthviic8229-pixel/FocusChunk.git
+   git clone https://github.com/siddharthviiic8229-pixel/FocusChunk.git
    ```
    
   2. Open the project in **Android Studio**.
