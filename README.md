@@ -1,6 +1,8 @@
 # FocusChunk 🎯
 
-FocusChunk is an Android App made to help ADHD patients breaks long text into short chunks to improve focus and retention.
+FocusChunk is an Android App made to help users with ADHD break long text into short chunks to improve focus and retention.
+
+<img width="300"  alt="Screenshot_20260925_110654" src="https://github.com/user-attachments/assets/4be06fc4-6b7b-460a-9442-44937d03c69b" />
 
 #  Key Features
 
